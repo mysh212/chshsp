@@ -18,6 +18,7 @@
  - S6-13T1 ***<font color = "yellow">~~禮記翃(LitChi Home)~~</font>***
  - S6-14T1 ***<font color = "yellow">貼字</font>***
  - S6-6T3 ***<font color = "yellow">切割</font>*** 
+ - **I don't know what this cut is.** S5-4T3 ***<font color = "yellow">找不到直升機</font>***
 >*Software: **Adobe After Effects***。
 >
 > --- ***ysh***
