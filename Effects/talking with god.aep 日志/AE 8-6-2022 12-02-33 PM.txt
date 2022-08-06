@@ -1,0 +1,17 @@
+Adobe After Effects v22.2 Windows 64 为项目“talking with god.aep”渲染日志
+
+渲染在“12:02:33 PM”的“8/6/2022”上开始
+
+  “8/6/2022”“12:02:33 PM”: 开始合成“talking with god”。
+
+  输出到: D:\成發\chshsp\Effects\render\talking with god.mov    “8/6/2022”“12:02:53 PM”: 完成的合成“talking with god”。
+
+
+  “8/6/2022”“12:02:53 PM”: 开始合成“talking with god”。
+
+  输出到: D:\成發\chshsp\Effects\render\talking with god_1.mov    “8/6/2022”“12:03:06 PM”: 完成的合成“talking with god”。
+
+
+  已用总时间: 32 秒
+日志在“12:03:06 PM”的“8/6/2022”上关闭
+
