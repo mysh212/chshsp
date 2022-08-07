@@ -22,9 +22,21 @@
  - S6-2T1 ***<font color = "yellow">~~貼神~~</font>***
  - S6-4T1 ***<font color = "yellow">切畫面</font>***
  - S6-28T3 ***<font color = "yellow">加音效</font>***
- - S5-L2T1 ***<font color = "yellow">貼神</font> + 接音軌(從缺)***
+ - S5-L2T1 ***<font color = "yellow">~~貼神</font> + 接音軌(從缺)~~***
  - S4-7T4 ***<font color = "yellow">~~貼水膠~~</font>***
  - **I don't know** ***重新配音***
 
+#### ***issue***
+ - [x] ~~直升機(做動畫)~~
+ - [x] ~~轉場~~
+ - [x] render 子浩對鏡子
+ - [x] 貼神的音軌
+ - [ ] 神的光點
+ - [x] ~~往前拉一秒~~
+ - [ ] 1:41 掉下來以後做光點
+ - [ ] 2:30 加速 or 降噪
+
+#### ***TO-DO List***
+ - [ ] 2:32 畫面穩定
 ```S6-2T1 配音:S6-1T7 (echo)```
 > --- ***ysh***
