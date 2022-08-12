@@ -5,6 +5,8 @@
  - [<font color="#AAAA00">***C--花絮(?)***</font>](https://drive.google.com/drive/folders/1CIQJbCVCe1eLKhDIREdjyGKFI3-dezmK?usp=sharing)
  - [<font color="#AAAA00">***V--配音***</font>](https://drive.google.com/drive/folders/1CIQJbCVCe1eLKhDIREdjyGKFI3-dezmK?usp=sharing)
  - [<font color="#00AA00">***F--成功片段***</font>](https://drive.google.com/drive/folders/1Da1_RQONtDKf9Uq1Uq9Z3taK3AwCDgxX?usp=sharing)
+ - [<font color="#00AA00">***Export--成發影片+倒數影片***</font>](https://drive.google.com/drive/folders/1HVHYwbdrqapS1b3CDLSzbxgg6Gt6OMLg?usp=sharing)
+ - [<font color="#00AA00">***花絮照片***</font>](https://drive.google.com/open?id=1HYX_382du9VF8eAS0-WQn28ixY1aFsrC)
  - [***劇本***](https://hackmd.io/@mysh212/SkL8BYSnc)
 #### ***note:***
  - S9T3 ***接音軌***
@@ -40,7 +42,7 @@
  - [ ] 2:32 畫面穩定
 
 #### ***shot again***
- - [ ] 王彥嘉跑掉
+ - [x] 王彥嘉跑掉
  
 #### ***plan***
  - [ ] S6-2T1
